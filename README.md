@@ -132,6 +132,12 @@ Issue/PR'lar memnuniyetle karşılanır. Script isimlendirmesi kendi kendini
 açıklıyor (`<numara>-<paket-adı>.sh`) — yeni bir paket eklemek, bağımlılık
 sırasına uygun bir numarayla yeni bir script eklemek demek.
 
+## Ekip ve Katkıda Bulunanlar
+
+- [tuxdevv](https://github.com/tuxdevv)
+- [Patri0n](https://github.com/Patri0n)
+- [Neutron Yazılım Topluluğu](https://github.com/neutronyazilim)
+
 ## Lisans
 
 GPLv3 — bkz. [LICENSE](LICENSE). Türevler de açık kaynak kalmak zorunda.
